@@ -35,7 +35,7 @@ class CheckoutTest extends TestCase
         $checkout->scan('B');
         $checkout->scan('D');
 
-        $this->assertEquals(130, $checkout->total());
+        $this->assertEquals(95, $checkout->total());
     }
 
     public function test_sku_special_price_remaining()

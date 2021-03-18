@@ -19,12 +19,12 @@ class Inventory
             'special' => ['count' => 2, 'total' => 45]
         ],
         'C' => [
-            'price' => 50,
+            'price' => 20,
             'quantity' => 100,
             'special' => []
         ],
         'D' => [
-            'price' => 50,
+            'price' => 15,
             'quantity' => 100,
             'special' => []
         ],
